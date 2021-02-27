@@ -8,3 +8,4 @@ torchvision==0.8.1
 transformers==3.4.0
 rouge-score==0.0.4
 nltk==3.5
+openai
