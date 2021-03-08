@@ -8,3 +8,7 @@ Transformers have taken the AI research and product community by storm. We have 
 
 If you can get OpenAI GPT-3, great! This is optional.
 https://beta.openai.com/
+
+
+## Examples
+1. Text Classification: https://github.com/chagri/Transformers-Tutorial/blob/master/text-classification.ipynb
