@@ -15,6 +15,7 @@ Transformers have taken the AI research and product community by storm. We have 
 If you can get OpenAI GPT-3, great! This is optional.
 https://beta.openai.com/
 
+**This code leverages HuggingFace Transformers and will download several > 200MB model files for various examples. Please try to download these models in advance by simply running the provided IPython/Jupyter Notebooks.**
 
 
 ## Examples
