@@ -1,6 +1,7 @@
 pyyaml>=5.0.0
 dataclasses
 unittest
+uuid
 
 ## ML/DS
 pandas==1.1.4
